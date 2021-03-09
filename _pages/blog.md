@@ -1,17 +1,10 @@
 ---
-layout: default
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 3
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3  # The number of links after the current page
+layout: page
+title: blog
+permalink: /blog/
+description: Some stories.
+nav: true
 ---
-
 <div class="post">
 
   <div class="header-bar">
