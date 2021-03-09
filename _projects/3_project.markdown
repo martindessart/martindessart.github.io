@@ -1,0 +1,9 @@
+---
+layout: page
+title: Raspberry-pi mock-up
+description: Design of some modules for one experiment
+img: /assets/img/rasp1.png
+importance: 3
+---
+
+Design of some modules for one experiment.
