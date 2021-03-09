@@ -6,7 +6,7 @@ description: What I've done and where I've been
 nav: true
 ---
 
-Click `[**here**]`({{ site.url }}/assets/CV_GIT.pdf){:target="\_blank"} to see my full CV.
+Click [**here**]({{ site.url }}/assets/CV_GIT.pdf){:target="\_blank"} to see my full CV.
 
 <br />
 ## Education
