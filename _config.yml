@@ -90,10 +90,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  science:
-    output: true
-    permalink: /science/:path/
-
 
 news_limit: 5
 
