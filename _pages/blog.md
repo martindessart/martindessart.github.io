@@ -1,28 +1,22 @@
 ---
 layout: page
-title: blog
-permalink: /blog/
-description: Some stories.
+title: blogs
+permalink: /blogs/
+description: REAL BLOG.
 nav: true
 ---
-<div class="post">
+<div class="blogs grid">
 
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+  {% assign sorted_blogs = site.blogs | sort: "importance" %}
+  {% for blog in sorted_blogs %}
+  <div class="grid-item">
+    {% if blog.redirect %}
+    <a href="{{ blog.redirect }}" target="_blank">
+    {% else %}
+    <a href="{{ blog.url | relative_url }}">
+    {% endif %}
+
   </div>
-
-
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-        <p>{{ post.description }}</p>
-      </li>
     {% endfor %}
-  </ul>
 
-  {% include pagination.html %}
-
-</div>
+  </div>

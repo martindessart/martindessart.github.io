@@ -66,9 +66,9 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
 blog_description: Here I'm writing about incredible things !
-permalink: /blog/:year/:title/
+permalink: # /blog/:year/:title/
 
 # Pagination
 pagination:
