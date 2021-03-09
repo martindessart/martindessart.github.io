@@ -212,57 +212,57 @@ footer.sticky-bottom {
 
 // Blog
 
-//.header-bar {
-//  border-bottom: 1px solid $grey-color-light;
-//  text-align: center;
-//  padding-top: 2rem;
-  //padding-bottom: 5rem;
-//  h1 {
-//    color: var(--global-theme-color);
-  //  font-size: 5rem;
-//  }
-//}
+.header-bar {
+  border-bottom: 1px solid $grey-color-light;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  h1 {
+    color: var(--global-theme-color);
+    font-size: 5rem;
+  }
+}
 
-//.post-list {
-//  margin: 0;
-//  margin-bottom: 40px;
-//  padding: 0;
-//  li {
-  //  border-bottom: 1px solid $grey-color-light;
-    //list-style: none;
-//    padding-top: 2rem;
-//    padding-bottom: 2rem;
-  //  .post-meta {
-    //  color: $grey-color;
-      //font-size: 0.875rem;
-//      margin-bottom: 0;
-  //  }
-  //  a {
-  //    color: var(--global-text-color);
-  //    text-decoration: none;
-//      &:hover {
-//        color: var(--global-theme-color);
-  //    }
-//    }
-//  }
-//}
+.post-list {
+  margin: 0;
+  margin-bottom: 40px;
+  padding: 0;
+  li {
+    border-bottom: 1px solid $grey-color-light;
+    list-style: none;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    .post-meta {
+      color: $grey-color;
+      font-size: 0.875rem;
+      margin-bottom: 0;
+    }
+    a {
+      color: var(--global-text-color);
+      text-decoration: none;
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
 
-//.pagination {
-//  .page-item {
-//    .page-link {
-//    color: var(--global-text-color);
-  //    &:hover {
-    //    color: $black-color;
-    /  }
-  //  }
-//    &.active .page-link {
-//      background-color: var(--global-theme-color);
-  //    &:hover {
-    //    background-color: var(--global-theme-color);
-      //}
-//    }
-//  }
-//}
+.pagination {
+  .page-item {
+    .page-link {
+      color: var(--global-text-color);
+      &:hover {
+        color: $black-color;
+      }
+    }
+    &.active .page-link {
+      background-color: var(--global-theme-color);
+      &:hover {
+        background-color: var(--global-theme-color);
+      }
+    }
+  }
+}
 
 
 // Distill
