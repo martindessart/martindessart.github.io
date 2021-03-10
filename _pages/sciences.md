@@ -17,7 +17,8 @@ order: 4
   {% for science in sorted_sciences %}
     <li>
       <h3><a href="{{ science.url | relative_url }}">{{ science.title }}</a>
-
+      <p class="post-meta">{{ science.date | date: '%B %-d, %Y' }}</p>
+      <p>{{ science.description }}</p>
       </h3>
     </li>
   {% endfor %}
