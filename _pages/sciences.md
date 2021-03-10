@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sciences
+title:
 permalink: /sciences/
 description:
 nav: true
