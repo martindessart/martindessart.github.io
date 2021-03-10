@@ -4,6 +4,7 @@ title: sciences
 permalink: /sciences/
 description:
 nav: true
+order: 4
 ---
 
 <div class="post">

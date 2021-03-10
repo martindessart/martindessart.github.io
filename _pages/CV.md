@@ -4,6 +4,7 @@ permalink: /CV/
 title: CV
 description: What I've done and where I've been
 nav: true
+order: 2
 ---
 
 Click <span class="font-weight-bold">[**`here`**]({{ site.url }}/assets/pdf/CV_GIT.pdf){:target="\_blank"}</span> to see my full CV.
