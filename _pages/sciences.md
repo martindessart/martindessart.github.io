@@ -15,7 +15,7 @@ nav: true
   {% assign sorted_sciences = site.sciences | sort: "importance" %}
   {% for science in sorted_sciences %}
     <li>
-      <h3><a href="{{ science.url | relative_url }}"></a>
+      <h3><a href="{{ science.url | relative_url }}">Yo</a>
 
       </h3>
     </li>
