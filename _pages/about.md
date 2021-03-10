@@ -6,7 +6,7 @@ description: <a href="https://www.theses.fr/s264355">PhD student at Institut de 
 
 profile:
   align: right
-  image: ouam.png
+  image: ouam-2.png
   address:
 
 news: false  # includes a list of news items
