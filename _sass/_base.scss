@@ -54,6 +54,11 @@ a, table.table a {
       margin: 0;
     }
   }
+  .clearfix {
+    border-bottom: 1px solid $grey-color-light;
+    padding-bottom: 50px;
+
+  }
 }
 
 @media (min-width: 576px) {
