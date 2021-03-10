@@ -6,10 +6,12 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 a, table.table a {
   color: var(--global-theme-color);
+  font-family: Helvetica, Arial, sans-serif;
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -51,6 +53,11 @@ a, table.table a {
       display: inline-block;
       margin: 0;
     }
+  }
+  .clearfix {
+    border-bottom: 1px solid $grey-color-light;
+    padding-bottom: 50px;
+
   }
 }
 
@@ -189,12 +196,12 @@ footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
   .container {
-    color: var(--global-footer-text-color);
+    color: var(--global-footer-link-color);
     padding-top: 9px;
     padding-bottom: 8px;
   }
   a {
-    color: var(--global-footer-link-color);
+    color: var(--global-footer-text-color);
     &:hover {
       color: $cyan-color;
       text-decoration: none;
