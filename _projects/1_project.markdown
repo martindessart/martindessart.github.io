@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: To be continued
+description: very soon !
 img: /assets/img/12.jpg
-importance: 1
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.

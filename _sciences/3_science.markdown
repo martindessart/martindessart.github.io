@@ -1,10 +1,9 @@
 ---
 layout: page
-title: science 1
-description: fun science here
-img: /assets/img/12.jpg
-importance: 1
+title: In prep
+description: fun science coming here
+importance: 2
 date:   2021-04-01 22:30:12
 ---
 
-gt'rezdcrez
+It's coming
