@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Raspberry-pi mock-up
+title: Raspi mock-up
 description: Design of some modules for one experiment
 img: /assets/img/rasp1.png
 importance: 3
