@@ -54,11 +54,6 @@ a, table.table a {
       margin: 0;
     }
   }
-  .clearfix {
-    border-bottom: 1px solid $grey-color-light;
-    padding-bottom: 50px;
-
-  }
 }
 
 @media (min-width: 576px) {
@@ -176,7 +171,12 @@ a, table.table a {
 
 .social {
   text-align: center;
+  border-top: 1px solid $grey-color-light;
+  padding-top: 50px;
+
   .contact-icon {
+    margin-top: 50px;
+
     font-size: 4rem;
     a {
       color: var(--global-icon-color);
@@ -196,12 +196,12 @@ footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
   .container {
-    color: var(--global-footer-link-color);
+    color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
   }
   a {
-    color: var(--global-footer-text-color);
+    color: var(--global-footer-link-color);
     &:hover {
       color: $cyan-color;
       text-decoration: none;
