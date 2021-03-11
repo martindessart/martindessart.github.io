@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.theses.fr/s264355">PhD student at Institut de Recherche sur la Biologie de l'Insecte, University of Tours</a>
+description: <a class = "post-description" href="https://www.theses.fr/s264355">PhD student at Institut de Recherche sur la Biologie de l'Insecte, University of Tours</a>
 
 profile:
   align: right
