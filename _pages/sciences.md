@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sciences
+title: Billets de sciences (et pas que)
 permalink: /sciences/
 description:
 nav: true
@@ -10,7 +10,6 @@ order: 4
 <div class="post">
   <div class="header-bar">
     <h1>Blog</h1>
-    <h2>I'll write some science here</h2>
   </div>
   <ul class="post-list">  
   {% assign sorted_sciences = site.sciences | sort: "importance" %}
