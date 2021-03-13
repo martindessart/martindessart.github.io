@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Billets de sciences (et pas que)
+title: Blog
 permalink: /sciences/
 description:
 nav: true
