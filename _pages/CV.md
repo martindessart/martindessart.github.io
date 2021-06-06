@@ -14,7 +14,7 @@ Click <span class="font-weight-bold">[**`here`**]({{ site.url }}/assets/pdf/CV_G
 
 **2021 - current**: PhD candidate in Neuroethology at `University of Tours` France
 
-**2018 - 2020**: MSc Ecophysiology, Ethology and Ecology at `University of Strasbourg` France (*High honours*)
+**2018 - 2020**: MSc in Ecophysiology, Ethology and Ecology at `University of Strasbourg` France (*High honours*)
 
 **2017 - 2018**: Front-End Web Developer Degree at `Udacity` (*Distance learning*)
 
@@ -28,7 +28,7 @@ Click <span class="font-weight-bold">[**`here`**]({{ site.url }}/assets/pdf/CV_G
 
 **2020 (Jan - Jun)**: Master's thesis in Cognition at `Animal Minds Lab`, University of Auckland, New Zealand <br>
 
-**2019 (Apr - Jun)**: Research intern in marine biology, `Marine Biodiversity Exploitation and Conservation (UMR MARBEC)`, Montpellier, France <br>
+**2019 (Apr - Jun)**: Research intern in Microbiology, `Marine Biodiversity Exploitation and Conservation (UMR MARBEC)`, Montpellier, France <br>
 
 **2018 (Mar - Apr)**: Field assistant at `Association Melindika`, Kafue National Park, Zambia <br>
 

@@ -9,7 +9,7 @@ order: 4
 
 <div class="post">
   <div class="header-bar">
-    <h1>Billets de sciences (et pas que)</h1>
+    <h1>Billets de sciences <br>(et pas que)</h1>
   </div>
   <ul class="post-list">  
   {% assign sorted_sciences = site.sciences | sort: "importance" %}
