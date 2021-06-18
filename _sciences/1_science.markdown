@@ -4,6 +4,7 @@ title: Intro-ception
 description: Céline Schrödinger
 importance: 1
 date:   2021-04-18 23:00:00
+comments: true
 ---
 Intro-ception: terme inventé, inutile, pas vraiment esthétique, provenant du mot **Introduction** - du latin *introductio*, action d'introduire, de faire rentrer une chose dans une autre, et du mot **Inception** - du latin *inceptio*, commencement.
 
@@ -13,7 +14,11 @@ Non, nous ne suivrons pas le *Chapitre 1, Verset 1* de la [Genèse](https://emci
 Mais au commencement, que se passe-t-il?
 "Au commencement était l'émotion", nous dit *Louis-Ferdinand Céline*. Et Dieu sait (ah non ! Et **DARWIN** sait) que des émotions, ce médecin français en a connu.  Illustre écrivain d'après-guerre, et également antisémite virulent, il nous permet de transiter vers cette notion chère au IIIème Siècle et particulièrement à l'Empire Perse qui l'a insufflé chez les romains et les égyptiens. Je parle ici du Manichéisme, qui désigne en fait plusieurs choses.
 
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c1.jpg">
+    </div>
+</div>
 
 Le Manichéisme est tout d'abord une [religion](https://fr.wikipedia.org/wiki/Manich%C3%A9isme_(religion)) de l'antiquité. Un de ses fondements est la séparation du monde en deux: le royaume de la Lumière, synonyme d'éternité, et le royaume des Ténèbres, synonyme de mort.
 L'homme est également divisé en deux: Esprit-Lumière-Immortel et Corps-Ténèbres-Mortel.
