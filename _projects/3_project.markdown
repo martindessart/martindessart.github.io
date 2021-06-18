@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Raspi mock-up
-description: Design of some modules for one experiment
+description: Electronic design for learning protocol
 img: /assets/img/rasp1.png
 importance: 1
 ---
 
-Design of some modules for one experiment.
+-- News coming soon --
+
+
+This project takes part of my PhD subject. The goal is to apply associative learning to aquatic insects.
