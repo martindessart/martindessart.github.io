@@ -14,11 +14,15 @@ Non, nous ne suivrons pas le *Chapitre 1, Verset 1* de la [Genèse](https://emci
 Mais au commencement, que se passe-t-il?
 "Au commencement était l'émotion", nous dit *Louis-Ferdinand Céline*. Et Dieu sait (ah non ! Et **DARWIN** sait) que des émotions, ce médecin français en a connu.  Illustre écrivain d'après-guerre, et également antisémite virulent, il nous permet de transiter vers cette notion chère au IIIème Siècle et particulièrement à l'Empire Perse qui l'a insufflé chez les romains et les égyptiens. Je parle ici du Manichéisme, qui désigne en fait plusieurs choses.
 
+
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c1.jpg">
     </div>
 </div>
+
+
 
 Le Manichéisme est tout d'abord une [religion](https://fr.wikipedia.org/wiki/Manich%C3%A9isme_(religion)) de l'antiquité. Un de ses fondements est la séparation du monde en deux: le royaume de la Lumière, synonyme d'éternité, et le royaume des Ténèbres, synonyme de mort.
 L'homme est également divisé en deux: Esprit-Lumière-Immortel et Corps-Ténèbres-Mortel.
@@ -36,6 +40,17 @@ Nous aurions tendance, nous, humains, à juger de situations par le biais de rai
 "Un proverbe n'est pas une raison", nous rappelle Voltaire. Pour comprendre le monde, il faut le questionner.
 
 "La folie, c'est la loi de la majorité", nous prévient Terry Gilliam qui a entre autres réalisé **Las Vegas Parano** en 1998.
+
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c1.jpg">
+    </div>
+</div>
+
+
+
 
 Même si parfois, [la majorité produit des choses extraordinaires](https://www.youtube.com/watch?v=lWFq8uILaq4), nous ne pouvons ni croire cette majorité, qui ne fait que se tromper, ni-même nous croire nous-même, aussi remplis de biais que nous sommes.
 Alors qui croire? Céline? Ce bon vieux Socrate?
