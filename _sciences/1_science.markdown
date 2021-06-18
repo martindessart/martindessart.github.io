@@ -17,11 +17,15 @@ Mais au commencement, que se passe-t-il?
 
 
 <div class="row mt-3">
-    <p>
+    <p><br>
+    <br>
     </p>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c2.jpg">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c1.jpg">
     </div>
+    <p><br>
+    <br>
+    </p>
 </div>
 
 
@@ -47,7 +51,7 @@ Nous aurions tendance, nous, humains, à juger de situations par le biais de rai
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c1.jpg">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c2.jpg">
     </div>
 </div>
 
