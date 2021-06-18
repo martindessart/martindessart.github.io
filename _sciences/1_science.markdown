@@ -17,8 +17,10 @@ Mais au commencement, que se passe-t-il?
 
 
 <div class="row mt-3">
+    <p>
+    </p>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c1.jpg">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/c2.jpg">
     </div>
 </div>
 
@@ -90,7 +92,7 @@ Pour conclure ce billet, je souhaite partager:
 - Un *film*, pour une histoire à raconter
 - Un *livre*, pour un univers à imaginer
 
-Vulgarisation : [Guêpes parasito](https://www.youtube.com/watch?v=YYJpNLWlp8U)
+Vulgarisation : [Guêpes parasitoïdes](https://www.youtube.com/watch?v=YYJpNLWlp8U)
 
 Poème : [Arthur Rimbaud - Le dormeur du val](https://www.bonjourpoesie.fr/lesgrandsclassiques/poemes/arthur_rimbaud/le_dormeur_du_val)
 
