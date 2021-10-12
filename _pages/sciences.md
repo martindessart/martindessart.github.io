@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /wrong/
+permalink: /sciences/
 description:
 nav: true
 order: 4
