@@ -2,7 +2,7 @@
 layout: page
 title: Poster: A tracking system to assess activity and learning in mosquito larvae
 description: Presented at the 15th meeting Ecology & Behavior in Strasbourg, France, 2022
-img: /assets/img/E&B.png
+img: E&B.png
 importance: 2
 ---
 Click <span class="font-weight-bold">[**`here`**]({{ site.url }}/assets/pdf/P2.pdf){:target="\_blank"}</span> to see the poster.
