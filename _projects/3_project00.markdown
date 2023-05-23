@@ -2,7 +2,7 @@
 layout: page
 title: Poster: Invasive plant species through the bee eye: an analysis of flower coloration in the French Pyrenees
 description: Presented at the 50th meeting of the SFECA in Marseille, France, 2021
-img: BEE.png
+img: assets/img/BEE.jpg
 importance: 3
 ---
 Click <span class="font-weight-bold">[**`here`**]({{ site.url }}/assets/pdf/P1.pdf){:target="\_blank"}</span> to see the poster.
