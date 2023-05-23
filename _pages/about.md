@@ -15,9 +15,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 <br />
 NEW POSTER <span class="font-weight-bold">[**`HERE`**]({{ site.url }}/assets/pdf/P3.pdf){:target="\_blank"}</span> !
-<br />
-
-![](G1.gif)
 
 <br />
 **What Is It Like to Be a Bat?** In 1974, T. Nagel asked a transcendental question about the subjective experience of another animal. The way I feel, my emotions as well as the senses I use to perceive the world, are unique. How then can we know that every human being feels in the same way? What about non-human animals ?
