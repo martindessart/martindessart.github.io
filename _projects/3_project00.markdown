@@ -4,6 +4,7 @@ title: Poster: Invasive plant species through the bee eye: an analysis of flower
 description: Presented at the 50th meeting of the SFECA in Marseille, France, 2021
 img: assets/img/BEE.jpg
 importance: 3
+category: work
 ---
 Click <span class="font-weight-bold">[**`here`**]({{ site.url }}/assets/pdf/P1.pdf){:target="\_blank"}</span> to see the poster.
 

@@ -22,20 +22,27 @@ Click <span class="font-weight-bold">[**`here`**]({{ site.url }}/assets/pdf/CV_G
 
 <br />
 
-## Work
+## Research experience
 
-**2020 (Jul - Nov)**: Research intern in Cognition at `Research Center on Animal Cognition`, CNRS UMR 5169 - Toulouse, France <br>
+**2020 (Jul - Nov)**: Research intern in animal cognition at `Research Center on Animal Cognition`, CNRS UMR 5169 - Toulouse, France
 
-**2020 (Jan - Jun)**: Master's thesis in Cognition at `Animal Minds Lab`, University of Auckland, New Zealand <br>
+**2020 (Jan - Jun)**: Master's thesis in animal cognition at `Animal Minds Lab`, University of Auckland, New Zealand
 
-**2019 (Apr - Jun)**: Research intern in Microbiology, `Marine Biodiversity Exploitation and Conservation (UMR MARBEC)`, Montpellier, France <br>
+**2019 (Apr - Jun)**: Research intern in microbiology, `Marine Biodiversity Exploitation and Conservation (UMR MARBEC)`, Montpellier, France
 
-**2018 (Mar - Apr)**: Field assistant at `Association Melindika`, Kafue National Park, Zambia <br>
+**2018 (Mar - Apr)**: Field assistant at `Association Melindika`, Kafue National Park, Zambia
 
-**2018 (Jan - Mar)**: Volunteer at `Aide aux Vieux Animaux (AVA) Sanctuary`, Normandie, France <br>
+**2018 (Jan - Mar)**: Volunteer at `Aide aux Vieux Animaux (AVA) Sanctuary`, Normandie, France
 
-**2016 - 2017 (Sep - Feb)**: Engineering thesis at `Auckland University of Technology`, Auckland, New Zealand <br>
 
-**2015 (May - Aug)** : Intern in computing design, `TESEO`, Turin, Italy <br>
+<br />
+
+## Engineer experience
+
+**2014 - 2017 (Sep - Sep)**: Apprentice engineer at `Clemessy Aeronautics and Space`, Toulouse, France
+
+**2016 - 2017 (Sep - Feb)**: Engineering thesis at `Auckland University of Technology`, Auckland, New Zealand
+
+**2015 (May - Aug)** : Intern in computing design, `TESEO`, Turin, Italy
 
 <br />
