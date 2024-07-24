@@ -4,4 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - martindessart/Invasive_plants_through_bee-eye_Pyrenees
+  - martindessart/Tracking-system
   - martindessart/Brain_Like_A_Sieve
+  - martindessart/Chemical_toxicity
