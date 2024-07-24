@@ -6,20 +6,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>65 avenue de Maroule</p>
+    <p>31370 Rieumes</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**What Is It Like to Be a Bat?** In 1974, T. Nagel asked a transcendental question about the subjective experience of another animal. The way I feel, my emotions as well as the senses I use to perceive the world, are unique. How then can we know that every human being feels in the same way? What about non-human animals ?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am deeply fascinated by how `Evolution has shaped the incredible perceptual abilities of animals`. Cognition, the mental process of acquiring knowledge and understanding through thought, experience and the senses, is the area I want to explore. More specifically, I am deeply fascinated by how animals use their vision to interact with their environment, navigate or escape from a predator.
+I am currently studying `invertebrate cognition` in Tours, France, in particular the role of water pollution on the learning and memory abilities of mosquito larvae.
+By understanding how animals perceive the world, I strongly believe that we can draw inspiration from this to develop applications and preserve our environment.
