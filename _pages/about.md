@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://www.univ-tours.fr/annuaire/m-martin-dessart">PhD student at Institut de Recherche sur la Biologie de l'Insecte, University of Tours</a>
 
 profile:
   align: right
