@@ -107,26 +107,24 @@
       "endDate": "04-2018",
       "summary": "I interviewed farmers about paddock management"
     },
-    "volunteer": [
-      {
-        "organization": "AVA Sanctuary",
-        "location": "Normandie, France",
-        "position": "Field assistant",
-        "url": "https://www.agirpourlavieanimale.fr/",
-        "startDate": "01-2018",
-        "endDate": "02-2018",
-        "summary": "PhD Candidate field assistant: Telemetry, RFID"
-      },
-    "volunteer": [
-      {
-        "organization": "Auckland Zoo",
-        "location": "Auckland, New Zealand",
-        "position": "Zookeeper helper",
-        "url": "https://www.aucklandzoo.co.nz/get-involved/volunteer",
-        "startDate": "10-2016",
-        "endDate": "12-2016",
-        "summary": "Preparation of cognitive enrichment items for primates"
-      }
+    {
+      "organization": "AVA Sanctuary",
+      "location": "Normandie, France",
+      "position": "Field assistant",
+      "url": "https://www.agirpourlavieanimale.fr/",
+      "startDate": "01-2018",
+      "endDate": "02-2018",
+      "summary": "PhD Candidate field assistant: Telemetry, RFID"
+    },
+    {
+      "organization": "Auckland Zoo",
+      "location": "Auckland, New Zealand",
+      "position": "Zookeeper helper",
+      "url": "https://www.aucklandzoo.co.nz/get-involved/volunteer",
+      "startDate": "10-2016",
+      "endDate": "12-2016",
+      "summary": "Preparation of cognitive enrichment items for primates"
+    }
   ],
   "publications": [
     {
