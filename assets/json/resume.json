@@ -4,11 +4,11 @@
     "label": "PhD student",
     "summary": "PhD student at Institut de Recherche sur la Biologie de l'Insecte, University of Tours",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -31,7 +31,7 @@
     {
       "name": "Research Center on Animal Cognition",
       "position": "Research intern",
-      "url": "https://www.clemessy.com/aeronautics",
+      "url": "",
       "startDate": "07-2020",
       "endDate": "10-2020",
       "summary": "How does honeybees perceive invasive flowers in vision domain? An applied case in the French Pyrénées",
