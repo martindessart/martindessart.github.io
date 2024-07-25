@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Martin Dessart",
-    "label": "Post-Doc",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "label": "PhD student",
+    "summary": "PhD student at Institut de Recherche sur la Biologie de l'Insecte, University of Tours",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -13,141 +13,144 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "martin_dessart",
+        "url": "https://x.com/martin_dessart"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Institut de Recherche sur la Biologie de l'Insecte, University of Tours",
+      "position": "PhD student",
+      "url": "https://theses.fr/s264355",
+      "startDate": "02-2021",
+      "endDate": "02-2024",
+      "summary": "The cognition of mosquito larvae as a biological indicator of the quality of aquatic ecosystems",
+      "highlights": ["Learning", "Memory", "Activity", "Ecotoxicology", "Insects", "Sensorial ecology"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Research Center on Animal Cognition",
+      "position": "Research intern",
+      "url": "https://www.clemessy.com/aeronautics",
+      "startDate": "07-2020",
+      "endDate": "10-2020",
+      "summary": "How does honeybees perceive invasive flowers in vision domain? An applied case in the French Pyrénées",
+      "highlights": ["Cognition", "Modeling", "Data treatment", "Field work"]
+    },
+    {
+      "name": "Animal Minds Lab",
+      "position": "Research intern",
+      "url": "https://www.animalmindslab.com/",
+      "startDate": "01-2020",
+      "endDate": "07-2020",
+      "summary": "A measurement of optimism in kea Nestor notabilis",
+      "highlights": ["Cognition", "Experimental design", "Field work"]
+    },
+    {
+      "name": "UMR MARBEC",
+      "position": "Research intern",
+      "url": "https://umr-marbec.fr/",
+      "startDate": "04-2019",
+      "endDate": "06-2019",
+      "summary": "Design and field experiment on fish gut microbiota and CH4 emissions",
+      "highlights": ["DNA extraction & PCR", "Experimental design", "Field work"]
+    },
+    {
+      "name": "Clemessy Aeronautics & Space",
+      "position": "Apprentice engineer",
+      "url": "https://www.clemessy.com/aeronautics",
+      "startDate": "09-2014",
+      "endDate": "09-2017",
+      "summary": "Project: integration of an automatic cable tester, customer/supplier relationship management, design, plan and supervision of electrical tests",
+      "highlights": ["Project management", "Production management", "Engineering", "Automation"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Strasbourg, France",
+      "location": "Strasbourg, France",
+      "url": "https://sites.google.com/site/masterecophysiologieethologie/",
+      "area": "Ecophyisiology, Ecology and Ethology",
+      "studyType": "MsC",
+      "startDate": "09-2018",
+      "endDate": "09-2020",
+      "courses": ["Ethology", "Cognition and behaviour", "Neurobiology of rhythms", "Ecophyisiology", "Metabolism"]
+    },
+    {
+      "institution": "Udacity & Google",
+      "location": "Distance learning",
+      "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011",
+      "area": "Front end web developer",
+      "studyType": "Online formation",
+      "startDate": "11-2017",
+      "endDate": "08-2018",
+      "courses": ["HTML", "CSS", "JS", "React", "Community support"]
+    },
+    {
+      "institution": "Institut Catholique des Arts et Métiers",
+      "location": "Toulouse, France",
+      "url": "https://en.icam.fr/",
+      "area": "Mechanics, control systems",
+      "studyType": "Engineering school",
+      "startDate": "09-2012",
+      "endDate": "09-2017",
+      "courses": ["Software", "Programming engineering", "Electrical engineering", "Project management", "Industrial organisation"]
     }
   ],
-  "awards": [
+  "volunteer": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "organization": "Melindika association",
+      "location": "Kafue National Park, Zambia",
+      "position": "Vet assistant",
+      "url": "https://www.melindika.org/",
+      "startDate": "02-2018",
+      "endDate": "04-2018",
+      "summary": "I interviewed farmers about paddock management"
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+    "volunteer": [
+      {
+        "organization": "AVA Sanctuary",
+        "location": "Normandie, France",
+        "position": "Field assistant",
+        "url": "https://www.agirpourlavieanimale.fr/",
+        "startDate": "01-2018",
+        "endDate": "02-2018",
+        "summary": "PhD Candidate field assistant: Telemetry, RFID"
+      },
+    "volunteer": [
+      {
+        "organization": "Auckland Zoo",
+        "location": "Auckland, New Zealand",
+        "position": "Zookeeper helper",
+        "url": "https://www.aucklandzoo.co.nz/get-involved/volunteer",
+        "startDate": "10-2016",
+        "endDate": "12-2016",
+        "summary": "Preparation of cognitive enrichment items for primates"
+      }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Assessing learning in mosquito larvae using video-tracking",
+      "publisher": "Journal of Insect Physiology",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1016/j.jinsphys.2023.104535",
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Habituation leads to short but not long term memory formation in mosquito larvae",
+      "publisher": "Journal of Insect Physiology",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1016/j.jinsphys.2024.104650",
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Color-Advertising Strategies of Invasive Plants through the Bee Eye",
+      "publisher": "Frontiers in Plant Science",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.3389/fpls.2024.1393204",
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,38 +162,13 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Biology",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Ethology",
+        "Quantitative biology",
+        "Cognition"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
