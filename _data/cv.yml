@@ -67,30 +67,18 @@
         - Integration of an automatic cable tester, customer/supplier relationship management, design, plan and supervision of electrical tests
         - Project management, Production management, Engineering, Automation
 
-- title: Honors and Awards
+- title: Volunteer
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Vet assistant
+      institution: Melindika association, Kafue National Park, Zambia
+      year: 02/2018 - 04/2018
+      description: I interviewed farmers about paddock management
+    - title: Field assistant
+      institution: AVA Sanctuary, Normandie, France
+      year: 01/2018 - 02/2018
+      description: PhD Candidate field assistant: Telemetry, RFID
+    - title: Zookeeper helper
+      institution: Auckland Zoo, Auckland, New Zealand
+      year: 10/2016 - 12/2016
+      description: Preparation of cognitive enrichment items for primates
