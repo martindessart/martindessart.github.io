@@ -21,12 +21,21 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MsC in Ecophyisiology, Ecology and Ethology
+      institution: University of Strasbourg, France
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Ethology, Cognition and behaviour, Neurobiology of rhythms, Ecophyisiology, Metabolism
+    - title: Front End Web Developer Degree
+      institution: Udacity & Google, Distance Learning
+      year: 11/2017 - 08/2018
+      description:
+        - HTML, CSS, JS, React, Community support
+    - title: Engineering School
+      institution: Institut Catholique des Arts et Métiers, Toulouse, France
+      year: 09/2012 - 09/2017
+      description:
+        - Software, Programming engineering, Electrical engineering, Project management, Industrial organisation
 
 - title: Experience
   type: time_table
