@@ -5,7 +5,7 @@ description: A measurement of optimism in kea Nestor notabilis
 img: assets/img/2.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 How important is the link between vocalisations and internal emotional states? Emotional state influences cognition by three types of cognitive biases: attention, memory and judgment biases. The judgment bias test (JBT) has been introduced to measure animals’ own judgment as an indicator of their emotional state and welfare.
