@@ -167,11 +167,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://theses.fr/s264355
   - name: Google Blog
     posts:
       - url: https://irbi.univ-tours.fr/medias/fichier/md-these_1707126746428-pdf?ID_FICHE=183076&INLINE=FALSE
+
         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
