@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Master 1 internship
-description: Design and field experiment on fish gut microbiota and CH4 emissions
+description: Role of microbiota in coral reef fishes and methane measurement in aquatic environment
+Design and field experiment on fish gut microbiota and CH4 emissions
 img: assets/img/1.jpg
 importance: 4
 category: work
