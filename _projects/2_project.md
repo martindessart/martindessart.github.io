@@ -7,11 +7,11 @@ importance: 3
 category: work
 related_publications: false
 ---
-**Keywords:** judgment bias, emotional state, nestor notabilis, animal welfare, vocalisations
+**Keywords** judgment bias, emotional state, nestor notabilis, animal welfare, vocalisations
 
 From January to June 2020, I worked at the Animal Mind Lab in Christchurch, New Zealand, under the supervision of Alex Taylor and Amalia Bastos.
 
-Here is a resume of our project:
+**Here is a resume of our project**
 
 How important is the link between vocalisations and internal emotional states? Emotional state influences cognition by three types of cognitive biases: attention, memory and judgment biases. The judgment bias test (JBT) has been introduced to measure animals’ own judgment as an indicator of their emotional state and welfare.
 
@@ -21,11 +21,11 @@ We measured the latency to approach the cue for one positive, one negative and t
 
 Despites the unpredictable behavioural inter-individual differences of kea, this study provides robust support to set up JBT test on Psittacidae and calls for the analysis of animal welfare through the lens of animal emotional state as a support of other most commonly used tests.
 
-**Link to the website of Amalia Bastos** [here](https://apmbastos.wordpress.com/)
+[**Website of Amalia Bastos**](https://apmbastos.wordpress.com/)
 
-**Link to the Animal Mind lab** [here](https://www.animalmindslab.com/)
+[**Webiste of the Animal Mind lab**](https://www.animalmindslab.com/)
 
-<span>[**Link to my report**]({{ site.url }}/assets/pdf/2_DESSART_report.pdf){:target="\_blank"}</span>
+<span>[**My Master report**]({{ site.url }}/assets/pdf/2_DESSART_report.pdf){:target="\_blank"}</span>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

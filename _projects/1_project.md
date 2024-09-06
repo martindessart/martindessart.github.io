@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-**Keywords:** microbial ecology, coral reef fish, methanogenesis, gas chromatography, PCR
+**Keywords** microbial ecology, coral reef fish, methanogenesis, gas chromatography, PCR
 
 From April to June 2019, I worked at the MARBEC lab in Montpellier, France, under the supervision of Jean-Christophe Auguet and Marie-Charlotte Cheutin.
 
@@ -20,13 +20,13 @@ Then, we also measured the CH4 emitted by fish we collected in the Mediterranean
 
 Although my short internship only led to preliminary results and a prototype, it was an amazing experience to discover microbiology methods, collect fish and participate in a large project.
 
-**Link to the thesis of Marie-Charlotte** [here](https://theses.hal.science/tel-03608249)
+[**Thesis of Marie-Charlotte**](https://theses.hal.science/tel-03608249)
 
-**Link to the MARBEC** [here](https://umr-marbec.fr/)
+[**Website of the MARBEC**](https://umr-marbec.fr/)
 
-<span>[**Link to my bibliographic work (in french)**]({{ site.url }}/assets/pdf/1_DESSART_synthesis.pdf){:target="\_blank"}</span>
+<span>[**My bibliographic work (in french)**]({{ site.url }}/assets/pdf/1_DESSART_synthesis.pdf){:target="\_blank"}</span>
 
-<span>[**Link to my presentation support (in french)**]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf){:target="\_blank"}</span>
+<span>[**My presentation support (in french)**]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf){:target="\_blank"}</span>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
