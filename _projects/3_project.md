@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Master 2 internship
+title: Master 2 internship 2
 description: A measurement of optimism in kea Nestor notabilis
-img: assets/img/2.jpg
-importance: 2
+img: assets/img/3.jpg
+importance: 3
 category: work
 related_publications: false
 ---
@@ -15,12 +15,6 @@ Here, we created a paradigm using a visual JBT where we tested the effect of two
 We measured the latency to approach the cue for one positive, one negative and three types of ambiguous cues, using colored flap doors (0%, 20%, 40%, 60% and 80% grey) and a specific apparatus. Using Bayesian multilevel analysis, we did not find strong differences in latency between the two vocalisations conditions. Yet, kea showed a remarkable learning capacity and good consistency throughout the experiment.
 
 Despites the unpredictable behavioural inter-individual differences of kea, this study provides robust support to set up JBT test on Psittacidae and calls for the analysis of animal welfare through the lens of animal emotional state as a support of other most commonly used tests.
-
-**_Link to the thesis of Amalia Bastos:_** [ici]()
-
-**_Link to Animal Mind lab:_** [here](https://www.animalmindslab.com/)
-
-**_Keywords:_** judgment bias, emotional state, nestor notabilis, animal welfare, vocalisations
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
