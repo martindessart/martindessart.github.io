@@ -21,9 +21,9 @@ This work is now followed by the thesis of [Frank Weber](https://theses.fr/s3120
 
 This work led to this [publication](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1393204/full) (find more in the publication tab)
 
-[**Website of the CRCA**](https://crca.cbi-toulouse.fr/)
+[Website of the CRCA](https://crca.cbi-toulouse.fr/)
 
-[**Website of the GEODE**](https://geode.univ-tlse2.fr/)
+[Website of the GEODE](https://geode.univ-tlse2.fr/)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
