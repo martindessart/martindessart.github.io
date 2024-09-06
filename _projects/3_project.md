@@ -1,23 +1,42 @@
 ---
 layout: page
-title: Master 2 internship 2
-description: A measurement of optimism in kea Nestor notabilis
+title: Master 2 internship n°2
+description: Color-advertising strategies of invasive plants through the bee eye
 img: assets/img/3.jpg
-importance: 3
+importance: 2
 category: work
-related_publications: false
+related_publications: true
 ---
+**Keywords:** invasive plants, honey bee, vision, color detection, color discrimination
 
-How important is the link between vocalisations and internal emotional states? Emotional state influences cognition by three types of cognitive biases: attention, memory and judgment biases. The judgment bias test (JBT) has been introduced to measure animals’ own judgment as an indicator of their emotional state and welfare.
+From July to November 2020, I worked at the CRCA in Toulouse, France, under the supervision of Sylvie Guillerme and Martin Giurfa.
 
-Here, we created a paradigm using a visual JBT where we tested the effect of two vocalisations (warble call as a playful call, hence “positive-valenced” and trill call as an alarm call, hence “negative valenced”) on 8 kea (Nestor notabilis). For this experiment, kea were trained to distinguish the presentation of a positive (rewarding) or a negative (non-rewarding) cue, and then tested on novel ambiguous to probe their judgment of them. Simultaneously with the introduction of each ambiguous cue, kea heard a playback of a vocalisation.
+This work led to one publication:
 
-We measured the latency to approach the cue for one positive, one negative and three types of ambiguous cues, using colored flap doors (0%, 20%, 40%, 60% and 80% grey) and a specific apparatus. Using Bayesian multilevel analysis, we did not find strong differences in latency between the two vocalisations conditions. Yet, kea showed a remarkable learning capacity and good consistency throughout the experiment.
+Dessart M, Aguiar JMR, Tabacchi E, Guillerme S, Giurfa M (2024) Color-Advertising Strategies of Invasive Plants through the Bee Eye. Frontiers in Plant Science. https://doi.org/10.3389/fpls.2024.1393204
 
-Despites the unpredictable behavioural inter-individual differences of kea, this study provides robust support to set up JBT test on Psittacidae and calls for the analysis of animal welfare through the lens of animal emotional state as a support of other most commonly used tests.
+Here is a resume of our project:
+
+Invasive plants represent a significant global challenge as they compete with native plants for limited resources such as space, nutrients and pollinators. Here, we focused on four invasive species that are widely spread in the French Pyrenees, Buddleja davidii, Reynoutria japonica, Spiraea japonica and Impatiens glandulifera, and analyzed their visual advertisement signals with respect to those displayed by their surrounding native species using a perceptual approach based on the neural mechanisms of bee vision given that bees are regular pollinators of these plants. We collected 543 spectral reflections from the 4 invasive species, and 66 native species and estimated achromatic and chromatic similarities to the bee eye.
+
+R. japonica, S. japonica and B. davidii were inconspicuous against the foliage background and could be hardly discriminated in terms of color from their surrounding native plants. These characteristics promote generalization, potentially attracting pollinators foraging on similar native species. Two morphs of I. glandulifera were both highly salient in chromatic and achromatic terms and different from their surrounding native species. This distinctive identity facilitates detection and learning in association with rich nectar. While visual signals are not the only sensory cue accounting for invasive-plant success, our study reveals new elements for understanding biological invasion processes from the perspective of pollinator perceptual processes.
+
+This work is followed by the thesis of [Frank Weber](https://theses.fr/s312048)
+
+**Link to the website of the CRCA** [here](https://crca.cbi-toulouse.fr/)
+
+**Link to the website of the GEODE** [here](https://geode.univ-tlse2.fr/)
+
+<span>[**Link to my report**]({{ site.url }}/assets/pdf/2_DESSART_report.pdf){:target="\_blank"}</span>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P2_1.jpg" title="P1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P3_1.jpg" title="P1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P3_2.jpg" title="P2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
