@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poster n°3
-description: The cognition of mosquito larvae as a biological indicator of the quality of aquatic ecosystems
+description: Chemical pollution affects the behaviour of mosquito larvae
 img: assets/img/8.jpg
 importance: 2
 category: work
