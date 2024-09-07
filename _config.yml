@@ -169,8 +169,7 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name:
     posts:
-      - url:
-
+      - url: https://martindessart.github.io/
         published_date:
 
 # -----------------------------------------------------------------------------
