@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Master 1 internship
-description: Role of microbiota in coral reef fishes and methane measurement in aquatic environment
+description: Methane measurement and role of microbiota in coral reef fishes
 img: assets/img/1.jpg
-importance: 4
+importance: 8
 category: work
 related_publications: false
 ---
@@ -12,21 +12,21 @@ related_publications: false
 
 From April to June 2019, I worked at the MARBEC lab in Montpellier, France, under the supervision of Jean-Christophe Auguet and Marie-Charlotte Cheutin.
 
-The main question of the project was: Does the gut microbiota of fish make a significant contribution to total CH4 production?
+The main question of the project was: Does the **gut microbiota** of fish make a significant contribution to total CH4 production?
 
-Our first objective was to measure the abundance and diversity of methanogenic archaea in the fish microbiota using PCR analysis.
+Our first objective was to **measure the abundance and diversity of methanogenic archaea** in the fish microbiota using **PCR analysis**.
 
-Then, we also measured the CH4 emitted by fish we collected in the Mediterranean Sea using GC-MS.
+Then, we also measured the **CH4 emitted by fish** we collected in the Mediterranean Sea using **gas chromatography** and **mass detection**.
 
 Although my short internship only led to preliminary results and a prototype, it was an amazing experience to discover microbiology methods, collect fish and participate in a large project.
+
+### <span>[My presentation support (in french)]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf){:target="\_blank"}</span>
+
+<span>[My bibliographic work (in french)]({{ site.url }}/assets/pdf/1_DESSART_synthesis.pdf){:target="\_blank"}</span>
 
 [Thesis of Marie-Charlotte](https://theses.hal.science/tel-03608249)
 
 [Website of the MARBEC](https://umr-marbec.fr/)
-
-<span>[My bibliographic work (in french)]({{ site.url }}/assets/pdf/1_DESSART_synthesis.pdf){:target="\_blank"}</span>
-
-<span>[My presentation support (in french)]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf){:target="\_blank"}</span>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
