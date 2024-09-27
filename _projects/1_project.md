@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Master 1 internship
-description: Methane measurement and role of microbiota in coral reef fishes
+description: Measuring methane in coral reef fishes intestinal microbiota
 img: assets/img/1.jpg
 importance: 8
 category: work
