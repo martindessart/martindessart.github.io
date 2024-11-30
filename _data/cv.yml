@@ -8,7 +8,7 @@
     - name: Languages
       value: French (native), English (fluent), Spanish (notions)
 
-- title: Education
+- title: Experience
   type: time_table
   contents:
     - title: <a href=https://www.vinaugerlab.com/>Postdoc in Neuroethology</a>
@@ -16,17 +16,46 @@
       year: 10/2024 - Present
       description:
         - Neuroetholgy and chronobiology of disease vectors
+        - Mosquito behaviour, Neural basis, olfactory rhythms, Mosquito-Host interactions
     - title: <a href=https://theses.fr/s264355>PhD in Neuroethology</a>
       institution: University of Tours, Tours, France
       year: 02/2021 - 02/2024
       description:
         - The cognition of mosquito larvae as a biological indicator of the quality of aquatic ecosystems
         - Learning, Memory, Activity, Ecotoxicology, Insects, Sensorial ecology
+    - title: Research intern
+      institution: Research Center on Animal Cognition
+      year: 07/2020 - 11/2020
+      description:
+        - Color-advertising strategies of invasive plants through the bee eye
+        - Cognition, Invasive plants, Honey bee, Vision, Color detection
+    - title: Research intern
+      institution: Animal Minds Lab
+      year: 01/2020 - 07/2020
+      description:
+        - A measurement of optimism in kea Nestor notabilis
+        - Judgment bias, Emotional state, Nestor notabilis, Vocalisations, Emotion, Animal welfare
+    - title: Research intern
+      institution: UMR MARBEC
+      year: 04/2019 - 06/2019
+      description:
+        - Design and field experiment on fish gut microbiota and CH4 emissions
+        - DNA extraction, PCR analysis, Experimental design, GCMS, Field work
+    - title: Apprentice engineer
+      institution: Clemessy Aeronautics & Space
+      year: 09/2014 - 09/2017
+      description:
+        - Design and integration of hard and software for automatic cable testing
+        - Project management, Production management, Engineering, Automation
+
+- title: Education
+  type: time_table
+  contents:
     - title: MsC in Ecophyisiology, Ecology and Ethology
       institution: University of Strasbourg, France
       year: 09/2018 - 09/2020
       description:
-        - Ethology, Cognition and behaviour, Neurobiology of rhythms, Ecophyisiology, Metabolism
+        - Ethology, Neurobiology of rhythms, Ecophyisiology
     - title: Front End Web Developer Degree
       institution: Udacity & Google, Distance Learning
       year: 11/2017 - 08/2018
@@ -36,32 +65,4 @@
       institution: Institut Catholique des Arts et Métiers, Toulouse, France
       year: 09/2012 - 09/2017
       description:
-        - Software, Programming engineering, Electrical engineering, Project management, Industrial organisation
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research intern
-      institution: Research Center on Animal Cognition
-      year: 07/2020 - 11/2020
-      description:
-        - How does honeybees perceive invasive flowers in vision domain? An applied case in the French Pyrénées
-        - Cognition, Modeling, Data treatment, Field work
-    - title: Research intern
-      institution: Animal Minds Lab
-      year: 01/2020 - 07/2020
-      description:
-        - A measurement of optimism in kea Nestor notabilis
-        - Cognition, Experimental design, Field work
-    - title: Research intern
-      institution: UMR MARBEC
-      year: 04/2019 - 06/2019
-      description:
-        - Design and field experiment on fish gut microbiota and CH4 emissions
-        - DNA extraction & PCR, Experimental design, Field work
-    - title: Apprentice engineer
-      institution: Clemessy Aeronautics & Space
-      year: 09/2014 - 09/2017
-      description:
-        - Integration of an automatic cable tester, customer/supplier relationship management, design, plan and supervision of electrical tests
-        - Project management, Production management, Engineering, Automation
+        - Project management, Programming, Electrical engineering
