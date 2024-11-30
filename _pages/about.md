@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://theses.fr/s264355">PhD student at Institut de Recherche sur la Biologie de l'Insecte, University of Tours</a>
-
+subtitle: <a href="https://www.vinaugerlab.com/notre-%C3%A9quipe">Postdoctoral associate at Virginia Tech</a>
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    
+
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**What Is It Like to Be a Bat?** In 1974, T. Nagel asked a transcendental question about the subjective experience of another animal. The way I feel, my emotions as well as the senses I use to perceive the world, are unique. How then can we know that every human being feels in the same way? What about non-human animals ?
+I am a `neuroethologist` passionate about `animal cognition`, with a particular focus on insects. Despite their tiny brains, these creatures exhibit remarkable behavioural adaptations relying on their complex sensory systems to perceive, process, and respond to diverse cues from their environment.
 
-I am deeply fascinated by how `Evolution has shaped the incredible perceptual abilities of animals`. Cognition, the mental process of acquiring knowledge and understanding through thought, experience and the senses, is the area I want to explore. More specifically, I am deeply fascinated by how animals use their vision to interact with their environment, navigate or escape from a predator.
-I am currently studying `invertebrate cognition` in Tours, France, in particular the role of water pollution on the learning and memory abilities of mosquito larvae.
-By understanding how animals perceive the world, I strongly believe that we can draw inspiration from this to develop applications and preserve our environment.
+My academic journey began with an `engineering degree` from [ICAM Toulouse](https://en.icam.fr/?campus=icam-toulouse), followed by a `Master's degree` from the University of [Strasbourg](https://sites.google.com/site/masterecophysiologieethologie/). I then pursued a `PhD` at the University of Tours, under the guidance of Prof. Claudio Lazzari and Dr. Fernando Guerrieri at the [Insect Biology Research Institute](https://irbi.univ-tours.fr/english-version).  
+
+My [PhD work](https://martindessart.github.io/projects/4_project/) focused on the cognitive abilities of mosquito larvae, exploring how environmental `pollutants` impact their `learning and memory` and how these creatures can serve as `biological indicators` of freshwater ecosystem health.
+Now as a `postdoc associate` in `Virginia Tech's Vinauger Lab`, I am studying `mosquito behaviour and cognition`, and the underlying mechanisms that makes these insects so highly effective at bothering us!
