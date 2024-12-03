@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M1 internship | Supervision
+title: Supervision<br>M1 Internship
 description: Effects of light and turbidity on the habituation of Aedes aegypti mosquito larvae
 img: assets/img/5.jpg
 importance: 5

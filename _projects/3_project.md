@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master 2 | Internship#2 | 2020
+title: M2 | Internship#2<br>2020
 description: Color-advertising strategies of invasive plants through the bee eye
 img: assets/img/3.jpg
 importance: 6
