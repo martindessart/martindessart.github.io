@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master 2 internship n°1
+title: Master 2 | Internship#1 | 2020
 description: A measurement of optimism in kea Nestor notabilis
 img: assets/img/2.jpg
 importance: 7
@@ -9,7 +9,7 @@ related_publications: false
 ---
 **Keywords** judgment bias, emotional state, nestor notabilis, animal welfare, vocalisations
 
-From January to June 2020, I worked at the Animal Mind Lab in Christchurch, New Zealand, under the supervision of Alex Taylor and Amalia Bastos.
+From January to June 2020, I had the privilege of working at Animal Mind Lab in Christchurch, New Zealand, under the supervision of Dr Alex Taylor and Dr Amalia Bastos. For three month, our work was based at the Kea aviary of the [Willowbank Wildlife Reserve](https://www.willowbank.co.nz/), an amazing place dedicated to conservation effort in New Zealand. This experience allowed us to engage in public education and advocate for wildlife conservation.
 
 **Resume of our project**
 
@@ -21,14 +21,18 @@ We measured the **latency to approach** the cue for one positive, one negative a
 
 Despites the unpredictable behavioural inter-individual differences of kea, this study provides robust support to set up JBT test on Psittacidae and calls for the analysis of animal welfare through the lens of animal emotional state as a support of other most commonly used tests.
 
-### <span>[My Master report]({{ site.url }}/assets/pdf/2_DESSART_report.pdf){:target="\_blank"}</span>
+### <span>[Click here to read my Master's report]({{ site.url }}/assets/pdf/2_DESSART_report.pdf){:target="\_blank"}</span>
 
-[Website of Amalia Bastos](https://apmbastos.wordpress.com/)
+[Here to find the website of Amalia Bastos](https://apmbastos.wordpress.com/)
 
-[Webiste of the Animal Mind lab](https://www.animalmindslab.com/)
+[And here for the website of the Animal Mind lab](https://www.animalmindslab.com/)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/P2_1.jpg" title="P1" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P2_2.jpg" title="P2" class="img-fluid rounded z-depth-1" %}
+    </div>
+
 </div>
