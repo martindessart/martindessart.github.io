@@ -10,23 +10,23 @@ related_publications: false
 
 **Keywords** microbial ecology, coral reef fish, methanogenesis, gas chromatography, PCR
 
-From April to June 2019, I worked at the MARBEC lab in Montpellier, France, under the supervision of Jean-Christophe Auguet and Marie-Charlotte Cheutin.
+From April to June 2019, I had the opportunity to work at the MARBEC lab in Montpellier, France, under the supervision of Dr Jean-Christophe Auguet and Dr Marie-Charlotte Cheutin.
 
-The main question of the project was: Does the **gut microbiota** of fish make a significant contribution to total CH4 production?
+The project aimed to explore a fascinating question: Does the **gut microbiota** of fish significantly contribute to total **CH₄ production**?
 
-Our first objective was to **measure the abundance and diversity of methanogenic archaea** in the fish microbiota using **PCR analysis**.
+Our first goal was to assess the **abundance and diversity of methanogenic archaea** in the fish microbiota using **PCR analysis**.
 
-Then, we also measured the **CH4 emitted by fish** we collected in the Mediterranean Sea using **gas chromatography** and **mass detection**.
+Additionally, we measured **CH₄ emissions from fish** collected in the Mediterranean Sea using **gas chromatography** and **mass detection**.
 
-Although my short internship only led to preliminary results and a prototype, it was an amazing experience to discover microbiology methods, collect fish and participate in a large project.
+Although my short internship yielded only preliminary results and a prototype, it was an amazing experience to discover microbiology methods, participate in fieldwork collecting fish, and participate in a large project.
 
-### <span>[My presentation support (in french)]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf){:target="\_blank"}</span>
+### <span>[You can find my presentation support (in french)]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf){:target="\_blank"}</span>
 
 <span>[My bibliographic work (in french)]({{ site.url }}/assets/pdf/1_DESSART_synthesis.pdf){:target="\_blank"}</span>
 
-[Thesis of Marie-Charlotte](https://theses.hal.science/tel-03608249)
+[Find the thesis of Marie-Charlotte](https://theses.hal.science/tel-03608249)
 
-[Website of the MARBEC](https://umr-marbec.fr/)
+[And the website of the MARBEC](https://umr-marbec.fr/)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -17,8 +17,7 @@ From July to November 2020, I worked at the CRCA in Toulouse, France, under the 
 
 R. japonica, S. japonica and B. davidii were **inconspicuous** against the foliage background and could be **hardly discriminated** in terms of color from their surrounding native plants. These characteristics promote **generalization**, potentially attracting pollinators foraging on similar native species. Two morphs of I. glandulifera were both **highly salient** in chromatic and achromatic terms and different from their surrounding native species. This distinctive identity facilitates **detection** and **learning** in association with rich nectar. While visual signals are not the only sensory cue accounting for invasive-plant success, our study reveals new elements for understanding biological invasion processes from the perspective of pollinator perceptual processes.
 
-### This work led to this [publication](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1393204/full) {% cite dessart2024color %} (find more in the publication tab)
-
+This work led to this paper: {% cite dessart2024color %}
 
 [Visit the website of the CRCA](https://crca.cbi-toulouse.fr/)
 

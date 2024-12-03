@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poster#3 | SFECA | 2023
+title: Poster n°3<br>SFECA | 2023
 description: Chemical pollution affects the behaviour of mosquito larvae
 img: assets/img/8.jpg
 importance: 2
