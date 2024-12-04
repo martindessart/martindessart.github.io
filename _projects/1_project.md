@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M1 | Internship<br>2019
+title: M1 Internship<br>2019
 description: Measuring methane in coral reef fishes intestinal microbiota
 img: assets/img/1.jpg
 importance: 8
