@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internship<br>Melindika | 2018
-description: Two month internship at Melindika (Zambia)
+description: Two month internship at Melindika in Zambia
 img: assets/img/10.jpg
 importance: 9
 category: work
@@ -18,7 +18,7 @@ During my stay, I had the opportunity to meet several farmers and discuss their 
 
 Living in this extraordinary environment was an unforgettable experience, but what truly enriched my time there was the chance to connect with the wonderful people I met.
 
-Melindika embodies a philosophy I deeply admire: it is led by local people, for the benefit of local communities, with a central mission of safeguarding animal welfare. [Here](https://www.youtube.com/watch?v=kn-x9EyI-Kw) is an intervention (in french) by Victoire that beautifully illustrates this concept. 
+Melindika embodies a philosophy I deeply admire: it is led by local people, for the benefit of local communities, with a central mission of safeguarding animal welfare. [Here](https://www.youtube.com/watch?v=kn-x9EyI-Kw) is an intervention (in french) by Victoire that beautifully illustrates this concept.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internship<br>AVA sanctuary | 2018
-description: Two month internship at AVA (Agir pour la Vie Animale)
+description: Two month internship at AVA - Agir pour la Vie Animale
 img: assets/img/9.jpg
 importance: 10
 category: work
