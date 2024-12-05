@@ -15,20 +15,18 @@ Finally, I fell in love with Mimine, a cat from the refuge. So here are some pic
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P10_1.jpg" title="P1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P9_1.jpg" title="P1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P10_2.jpg" title="P2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P9_2.jpg" title="P2" class="img-fluid rounded z-depth-1" %}
     </div>
-
 </div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P10_3.jpg" title="P3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P9_3.jpg" title="P1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P10_4.jpg" title="P4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P9_4.jpg" title="P2" class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
