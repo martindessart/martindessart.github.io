@@ -11,13 +11,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: <a href=https://www.vinaugerlab.com/>Postdoc in Neuroethology</a>
+    - title: <a href=https://www.vinaugerlab.com/>Postdoctoral associate in Neuroethology</a>
       institution: Virginia Tech, VA
       year: 10/2024 - Present
       description:
         - Neuroetholgy and chronobiology of disease vectors
         - Mosquito behaviour, Neural basis, olfactory rhythms, Mosquito-Host interactions
-    - title: <a href=https://theses.fr/s264355>PhD in Neuroethology</a>
+    - title: <a href=https://theses.fr/s264355>Research in Neuroethology and sensory ecology</a>
       institution: University of Tours, Tours, France
       year: 02/2021 - 02/2024
       description:
@@ -47,10 +47,22 @@
       description:
         - Design and integration of hard and software for automatic cable testing
         - Project management, Production management, Engineering, Automation
+    - title: Engineer thesis
+      institution: Auckland University of Technology
+      year: 09/2016 - 02/2017
+      description:
+        - Quantitative analysis of electricity generation from wind farms in New Zealand
+
 
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Neuroethology and sensory ecology
+      institution: University of Tours, France
+      year: 02/2021 - 02/2024
+      description:
+        - Experimental design, Behavioural analysis, Ecotoxicology
+        -  Statistical analysis, Scientific communication, Field work, Teaching
     - title: MsC in Ecophysiology, Ecology and Ethology
       institution: University of Strasbourg, France
       year: 09/2018 - 09/2020
