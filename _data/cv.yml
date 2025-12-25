@@ -12,69 +12,73 @@
   type: time_table
   contents:
     - title: <a href=https://www.vinaugerlab.com/>Postdoctoral associate in Neuroethology</a>
-      institution: Virginia Tech, VA
+      institution: Virginia Tech - Blacksburg, VA
       year: 10/2024 - Present
       description:
-        - Neuroetholgy and chronobiology of disease vectors
-        - Mosquito behaviour, Neural basis, olfactory rhythms, Mosquito-Host interactions
-    - title: <a href=https://theses.fr/s264355>Research in Neuroethology and sensory ecology</a>
-      institution: University of Tours, Tours, France
+        - Investigating sensory integration and chronobiology in mosquitoes
+    - title: <a href=https://theses.fr/s264355>Research in neuroethology and sensory ecology</a>
+      institution: University of Tours - Tours, France
       year: 02/2021 - 02/2024
       description:
-        - The cognition of mosquito larvae as a biological indicator of the quality of aquatic ecosystems
-        - Learning, Memory, Activity, Ecotoxicology, Insects, Sensorial ecology
+        - Examined the impact of pollutants on mosquito larvae cognition
+        - Assessed the role of larvae as bioindicators of freshwater ecosystems
     - title: Research intern
-      institution: Research Center on Animal Cognition
-      year: 07/2020 - 11/2020
+      institution: Research Center on Animal Cognition - Toulouse, France
+      year: 07/2020 - 10/2020
       description:
-        - Color-advertising strategies of invasive plants through the bee eye
-        - Cognition, Invasive plants, Honey bee, Vision, Color detection
+        - Collected flower reflectance in the field using spectrophotometry
+        - Modeled flower visual saliency using honeybee-vision models
     - title: Research intern
-      institution: Animal Minds Lab
+      institution: Animal Minds Lab - Christchurch, New Zealand
       year: 01/2020 - 07/2020
       description:
-        - A measurement of optimism in kea Nestor notabilis
-        - Judgment bias, Emotional state, Nestor notabilis, Vocalisations, Emotion, Animal welfare
+        - Designed and conducted judgment bias tests on kea *Nestor notabilis*
+        - Analyzed keas vocalizations using Raven and Praat softwares
     - title: Research intern
-      institution: UMR MARBEC
+      institution: UMR MARBEC - Montpellier, France
       year: 04/2019 - 06/2019
       description:
-        - Design and field experiment on fish gut microbiota and CH4 emissions
-        - DNA extraction, PCR analysis, Experimental design, GCMS, Field work
+        - Designed an experiment on fish gut methane emissions
+        - Performed field sampling and molecular analyses
     - title: Apprentice engineer
-      institution: Clemessy Aeronautics & Space
+      institution: Clemessy Aeronautics & Space - Toulouse, France
       year: 09/2014 - 09/2017
       description:
-        - Design and integration of hard and software for automatic cable testing
-        - Project management, Production management, Engineering, Automation
+        - Designed and integrated automated cable-testing system
     - title: Engineer thesis
-      institution: Auckland University of Technology
+      institution: Auckland University of Technology - Auckland, New Zealand
       year: 09/2016 - 02/2017
       description:
-        - Quantitative analysis of electricity generation from wind farms in New Zealand
+        - Analyzed wind-farm electricity generation
 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Neuroethology and sensory ecology
-      institution: University of Tours, France
+    - title: PhD at Insect Biology Research Institute
+      institution: University of Tours - Tours, France
       year: 02/2021 - 02/2024
       description:
-        - Experimental design, Behavioural analysis, Ecotoxicology
-        -  Statistical analysis, Scientific communication, Field work, Teaching
+        - Designed and conducted experiments in cognition, ecotoxicology
+        - Performed data analysis, programming, field work, teaching
     - title: MsC in Ecophysiology, Ecology and Ethology
-      institution: University of Strasbourg, France
+      institution: University of Strasbourg - Strasbourg, France
       year: 09/2018 - 09/2020
       description:
-        - Ethology, Neurobiology of rhythms, Ecophysiology
-    - title: Front End Web Developer Degree
-      institution: Udacity & Google, Distance Learning
+        - Studied neurobiology, ecophysiology, ethology, cognition
+        - Developed skills in statistical analyses
+    - title: Front End Web Developer Nanodegree
+      institution: Udacity & Google School - Distance Learning
       year: 11/2017 - 08/2018
       description:
-        - HTML, CSS, JS, React, Community support
-    - title: Engineering Degree
-      institution: Institut Catholique des Arts et Métiers, Toulouse, France
-      year: 09/2012 - 09/2017
+        - Developed front-end designs and learned how to use frameworks
+    - title: Engineer's Degree
+      institution: Institut Catholique des Arts et Métiers - Toulouse, France
+      year: 09/2014 - 09/2017
       description:
-        - Project management, Programming, Electrical engineering
+        - Studied programming, project management, electronics engineering
+    - title: Preparatory Class
+      institution: Institut Catholique des Arts et Métiers - Toulouse, France
+      year: 09/2012 - 09/2014
+      description:
+        - Studied electrical engineering, automation, industrial organization
