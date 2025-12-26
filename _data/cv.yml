@@ -11,13 +11,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: <a href=https://www.vinaugerlab.com/>Postdoctoral associate in Neuroethology</a>
+    - title: <a href=https://www.vinaugerlab.com/>Postdoctoral associate in neuroethology</a>
       institution: Virginia Tech - Blacksburg, VA
       year: 10/2024 - Present
       description:
         - Investigating sensory integration and chronobiology in mosquitoes
-    - title: <a href=https://theses.fr/s264355>Research in neuroethology and sensory ecology</a>
-      institution: University of Tours - Tours, France
+    - title: <a href=https://theses.fr/2024TOUR4001>Research in neuroethology and sensory ecology</a>
+      institution: Insect Biology Research Institute - Tours, France
       year: 02/2021 - 02/2024
       description:
         - Examined the impact of pollutants on mosquito larvae cognition
@@ -32,7 +32,7 @@
       institution: Animal Minds Lab - Christchurch, New Zealand
       year: 01/2020 - 07/2020
       description:
-        - Designed and conducted judgment bias tests on kea *Nestor notabilis*
+        - Designed and conducted judgment bias tests on kea _Nestor notabilis_
         - Analyzed keas vocalizations using Raven and Praat softwares
     - title: Research intern
       institution: UMR MARBEC - Montpellier, France
@@ -66,7 +66,7 @@
       year: 09/2018 - 09/2020
       description:
         - Studied neurobiology, ecophysiology, ethology, cognition
-        - Developed skills in statistical analyses
+        - Developed skills in statistical analyses and field work
     - title: Front End Web Developer Nanodegree
       institution: Udacity & Google School - Distance Learning
       year: 11/2017 - 08/2018

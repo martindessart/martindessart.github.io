@@ -9,17 +9,13 @@ related_publications: false
 ---
 **Keywords** learning, memory, activity, ecotoxicology, insects, sensorial ecology
 
-From February 2021 to March 2024, I was part of the Insect Biology Research Institute in Tours, France, where I conducted research under the supervision of Claudio Lazzari and Fernando Guerrieri.
+From February 2021 to March 2024, I was part of the [Insect Biology Research Institute](https://irbi.univ-tours.fr/version-francaise/recherche/equipe-3-inov) in Tours, France, where I conducted [research](https://theses.fr/2024TOUR4001) under the supervision of Claudio Lazzari and Fernando Guerrieri.
 
 **Resume of our project**
 
 Human activities affect organisms living in **freshwater** ecosystems. Sublethal doses of **pollutants** alter the perception, integration and storage of information in aquatic invertebrates. However, it remains difficult to quantify these effects using chemical analysis of water or biodiversity monitoring. Instead, the development of novel **biological indicators** involves the analysis of **cognitive abilities** as a sensitive and integrative endpoint. In this work, we assess the cognitive abilities of **mosquito larvae** in relation to their environment and investigate whether they can be used as biological indicators of the quality of freshwater ecosystems. Taken together, our results show that mosquito larvae are capable of **learning and remembering information** that are modulated by environmental conditions and the presence of pollutants. Thanks to a **controlled experimental framework**, this work provides a first proof of concept for the use of the cognition of mosquito larvae as a bioindicator of freshwater ecosystem quality.
 
-### <span>[You can read my manuscript (it would be nice as I spent some time writing it) ]({{ site.url }}/assets/pdf/4_DESSART_manuscript.pdf){:target="\_blank"}</span>
-
-[Find some official informations from my thesis](https://theses.fr/s264355)
-
-[And visit the IRBI website](https://irbi.univ-tours.fr/version-francaise/recherche/equipe-3-inov)
+[My PhD manuscript]({{ site.url }}/assets/pdf/4_DESSART_manuscript.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: M1 Internship<br>2019
-description: Measuring methane in coral reef fishes intestinal microbiota
+description: Measuring methane production by the intestinal microbiota of coral reef fishes
 img: assets/img/1.jpg
 importance: 8
 category: work
@@ -10,23 +10,21 @@ related_publications: false
 
 **Keywords** microbial ecology, coral reef fish, methanogenesis, gas chromatography, PCR
 
-From April to June 2019, I had the opportunity to work at the MARBEC lab in Montpellier, France, under the supervision of Dr Jean-Christophe Auguet and Dr Marie-Charlotte Cheutin.
+From April to June 2019, I worked at the [MARBEC](https://umr-marbec.fr/) in Montpellier, France, under the supervision of Dr Jean-Christophe Auguet and Dr Marie-Charlotte Cheutin.
 
-The project aimed to explore a fascinating question: Does the **gut microbiota** of fish significantly contribute to total **CH₄ production**?
+The project aimed to explore a fascinating question: to what extend does the **gut microbiota** of fish significantly contribute to overall **CH₄ production**?
 
-Our first goal was to assess the **abundance and diversity of methanogenic archaea** in the fish microbiota using **PCR analysis**.
+Our first goal was to characterize the **abundance and diversity of methanogenic archaea** in the fish microbiota using **PCR-based analyses**.
 
-Additionally, we measured **CH₄ emissions from fish** collected in the Mediterranean Sea using **gas chromatography** and **mass detection**.
+Additionally, we measured **CH₄ emissions from fishes** collected in the Mediterranean Sea using **gas chromatography** coupled with **mass detection**.
 
-Although my short internship yielded only preliminary results and a prototype, it was an amazing experience to discover microbiology methods, participate in fieldwork collecting fish, and participate in a large project.
+Although my short internship yielded only preliminary results and a prototype, it was an amazing experience to learn microbiology techniques, participate in fish sampling fieldwork, and contribute to a large-scale research project.
 
-### <span>[You can find my presentation support (in french)]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf){:target="\_blank"}</span>
+[My Masters presentation support (in french)]({{ site.url }}/assets/pdf/1_DESSART_pres.pdf)
 
-<span>[My bibliographic work (in french)]({{ site.url }}/assets/pdf/1_DESSART_synthesis.pdf){:target="\_blank"}</span>
+[My bibliographic resume (in french)]({{ site.url }}/assets/pdf/1_DESSART_synthesis.pdf)
 
-[Find the thesis of Marie-Charlotte](https://theses.hal.science/tel-03608249)
-
-[And the website of the MARBEC](https://umr-marbec.fr/)
+[The PhD manuscript of Marie-Charlotte](https://theses.hal.science/tel-03608249)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

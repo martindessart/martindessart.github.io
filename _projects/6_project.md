@@ -8,10 +8,8 @@ category: work
 related_publications: true
 ---
 
-In relation with my Master's internship n°2, I presented a poster during the 50th meeting of the French Society for the Study of Animal Behaviour (SFECA) in 2021.
+In relation with my Master's internship n°2, I presented a poster during the 50th meeting of the French Society for the [Study of Animal Behaviour (SFECA)](https://sfecamarseille.sciencesconf.org/) in 2021.
 
 This poster is associated with this paper: {% cite dessart2024color %}
 
-### <span>[Click here to discover the poster]({{ site.url }}/assets/pdf/PO1_DESSART.pdf){:target="\_blank"}</span>
-
-[And here for the website of the SFECA](https://sfecamarseille.sciencesconf.org/)
+[Poster]({{ site.url }}/assets/pdf/PO1_DESSART.pdf)

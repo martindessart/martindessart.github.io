@@ -8,15 +8,11 @@ category: work
 related_publications: true
 ---
 
-During my PhD, I presented a first poster during the 15th meeting Ecology & Behavior at Strasbourg in 2022.
-This conference was organised by PhD students from my master that mastered the organisation with a friendly touch, so I enjoyed very much to come back to this city.
+During my PhD, I presented my first poster at the 15th [Ecology & Behavior](https://ecobhv15.sciencesconf.org/) meeting in Strasbourg in 2022. This conference was organized by PhD students from my master's cohort, who combined excellent organisation with a friendly touch, so I enjoyed very much to come back to this city.
 
 This poster is associated with this paper: {% cite dessart2023assessing %}
 
-
-### <span>[Click here to discover the poster]({{ site.url }}/assets/pdf/PO2_DESSART.pdf){:target="\_blank"}</span>
-
-[And here for the website of Ecology & Behavior](https://ecobhv15.sciencesconf.org/)
+[Poster]({{ site.url }}/assets/pdf/PO2_DESSART.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

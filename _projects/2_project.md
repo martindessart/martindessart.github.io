@@ -7,9 +7,9 @@ importance: 7
 category: work
 related_publications: false
 ---
-**Keywords** judgment bias, emotional state, nestor notabilis, animal welfare, vocalisations
+**Keywords** judgment bias, emotional state, _Nestor notabilis_, animal welfare, vocalisations
 
-From January to June 2020, I had the privilege of working at Animal Mind Lab in Christchurch, New Zealand, under the supervision of Dr Alex Taylor and Dr Amalia Bastos. For three month, our work was based at the Kea aviary of the [Willowbank Wildlife Reserve](https://www.willowbank.co.nz/), an amazing place dedicated to conservation effort in New Zealand. This experience allowed us to engage in public education and advocate for wildlife conservation.
+From January to June 2020, I had the privilege of working at Animal Mind Lab in Christchurch, New Zealand, under the supervision of Dr [Alex Taylor](https://www.animalmindslab.com/) and [Dr Amalia Bastos](https://apmbastos.wordpress.com/). For three month, our work was based at the Kea aviary of the [Willowbank Wildlife Reserve](https://www.willowbank.co.nz/), an amazing place dedicated to conservation effort in New Zealand. This experience allowed us to engage in public education and advocate for wildlife conservation.
 
 **Resume of our project**
 
@@ -21,11 +21,7 @@ We measured the **latency to approach** the cue for one positive, one negative a
 
 Despites the unpredictable behavioural inter-individual differences of kea, this study provides robust support to set up JBT test on Psittacidae and calls for the analysis of animal welfare through the lens of animal emotional state as a support of other most commonly used tests.
 
-### <span>[Click here to read my Master's report]({{ site.url }}/assets/pdf/2_DESSART_report.pdf){:target="\_blank"}</span>
-
-[Here to find the website of Amalia Bastos](https://apmbastos.wordpress.com/)
-
-[And here for the website of the Animal Mind lab](https://www.animalmindslab.com/)
+[My Master's thesis]({{ site.url }}/assets/pdf/2_DESSART_report.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
