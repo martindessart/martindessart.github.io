@@ -3,7 +3,7 @@ layout: page
 title: Internship<br>Melindika | 2018
 description: Two month internship at Melindika in Zambia
 img: assets/img/10.jpg
-importance: 9
+importance: 11
 category: work
 related_publications: false
 ---

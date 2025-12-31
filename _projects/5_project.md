@@ -3,7 +3,7 @@ layout: page
 title: Supervision<br>M1 Intern | 2021
 description: Effects of light and turbidity on the habituation of Aedes aegypti mosquito larvae
 img: assets/img/5.jpg
-importance: 4
+importance: 6
 category: work
 related_publications: false
 ---

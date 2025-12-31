@@ -3,7 +3,7 @@ layout: page
 title: M2 Internship<br>n°1 | 2020
 description: A measurement of optimism in kea Nestor notabilis
 img: assets/img/2.jpg
-importance: 7
+importance: 9
 category: work
 related_publications: false
 ---

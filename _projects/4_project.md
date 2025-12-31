@@ -3,7 +3,7 @@ layout: page
 title: PhD project<br>2021-2024
 description: The cognition of mosquito larvae as a biological indicator of the quality of aquatic ecosystems
 img: assets/img/4.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---

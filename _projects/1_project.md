@@ -3,7 +3,7 @@ layout: page
 title: M1 Internship<br>2019
 description: Measuring methane production by the intestinal microbiota of coral reef fishes
 img: assets/img/1.jpg
-importance: 8
+importance: 10
 category: work
 related_publications: false
 ---
