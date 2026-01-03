@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visual avoidance<br>ESA | 2025
+title: Visual danger<br>ESA | 2025
 description: Modulation of mosquitoes' responses to visual threats
 img: assets/img/12.jpg
 importance: 1
