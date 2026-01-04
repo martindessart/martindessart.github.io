@@ -10,7 +10,7 @@ related_publications: true
 
 In 2023, I presented a second poster at the 52nd meeting of the [French Society for the Study of Animal Behaviour (SFECA)](https://sfecatours.sciencesconf.org/).
 
-This poster is associated with this preprint: {% cite Preprint2025 %}
+This poster is associated with this preprint: {% cite 10.1242/jeb.250493 %}
 
 This conference holds a special place in my heart, as it was hosted in Tours, where I was pursuing my PhD.
 It provided a wonderful opportunity to connect with PhD students from other labs, and we made the most of the beautiful weather by playing pétanque, a pastime I greatly enjoy.
