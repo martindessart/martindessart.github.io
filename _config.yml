@@ -130,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Martin Dessart # blog_name will be displayed in your blog page
-blog_description: some news about what I'm doing
+blog_description: some stuff I'm doing
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
