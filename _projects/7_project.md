@@ -3,7 +3,7 @@ layout: page
 title: Poster n°2<br>E&B | 2022
 description: A tracking system to assess activity and learning in mosquito larvae
 img: assets/img/7.jpg
-importance: 5
+importance: 92
 category: work
 related_publications: true
 ---

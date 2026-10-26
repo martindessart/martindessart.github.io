@@ -3,7 +3,7 @@ layout: page
 title: Internship<br>AVA | 2018
 description: Two month internship at AVA - Agir pour la Vie Animale
 img: assets/img/9.jpg
-importance: 12
+importance: 99
 category: work
 related_publications: false
 ---
